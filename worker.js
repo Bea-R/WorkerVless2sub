@@ -20,7 +20,7 @@ addEventListener('fetch', event => {
   ];
   
   let subconverter = "api.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-  let subconfig = "https://raw.githubusercontent.com/cmliu/edgetunnel/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
+  let subconfig = "https://raw.githubusercontent.com/Bea-R/WorkerVless2sub/main/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 
   let link = '' ;
   async function getAddressesapi() {
