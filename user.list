@@ -9,3 +9,4 @@ GEOIP,CN,DIRECT
 PROCESS-NAME,verysync,DIRECT
 PROCESS-NAME,transmission-daemon,DIRECT
 PROCESS-NAME,qbittorrent-nox,DIRECT
+IP-CIDR,47.97.0.0/16,DIRECT,no-resolve
