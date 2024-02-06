@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,cloudflare-dns.com
  DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,rjz199.asia
 DOMAIN-SUFFIX,rjz199.fun
-GEOIP,CN
 PROCESS-NAME,verysync
 PROCESS-NAME,transmission-daemon
 PROCESS-NAME,qbittorrent-nox
